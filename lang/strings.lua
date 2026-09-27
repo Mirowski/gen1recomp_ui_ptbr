@@ -4,6 +4,11 @@
 -- an entry empty. Keep any %s / %d directives.
 
 return {
+["Use cart"] = "Usar cartucho",
+["Selected"] = "Selecionado",
+["Import .g1rcart"] = "Importar .g1rcart",
+["Import dump"] = "Importar dump",
+["Other saves (%d)"] = "Outros Saves (%d)",
 ["Display name"] = "Nome de exibição",
 ["Connect"] = "Conectar",
 ["Disconnect"] = "Desconectar",
@@ -358,9 +363,11 @@ return {
   ["Import"] = "Importar",
   ["Patch notes"] = "Notas da versão",
   ["(PRESS THE CART TO PLAY)"] = "(TOQUE NO CARTUCHO PARA JOGAR)",
-  ["INSTALLED"] = "SKINS INSTALADAS:",
+  ["INSTALLED"] = "INSTALADAS:",
   ["IN USE"] = "EM USO",
-  ["IMPORT"] = "IMPORTAR SKINS:",
+  ["IMPORT"] = "IMPORTAR",
+  ["FIND"] = "BUSCAR",
+  ["GAMES"] = "JOGOS",
   ["Open Skin Studio"] = "Abrir Studio de Skins",
   ["Design bezels and button layouts, then test them."] = "Desenhe layouts de bordas e botões, então teste-os",
   ["Choose game"] = "Escolha um jogo",
